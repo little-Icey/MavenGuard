@@ -5,8 +5,6 @@ Malicious Maven Packages Detector using Graph Representation Learning and Static
 
 ## Mapping relationship between sensitive API and behavior types
 
-为了更直观地查看这些 Java API 的安全分类，我把原本嵌套的 JSON 数据摊平，整理成了如下的 Markdown 表格：
-
 | 大类名称 (categoryName) | 细粒度分类 (subcategoryName) | 编号 (short) | API 签名 (apiNames) |
 | --- | --- | --- | --- |
 | **Sensitive Information Reading**<br>
